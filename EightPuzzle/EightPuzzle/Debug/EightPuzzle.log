@@ -1,0 +1,9 @@
+﻿  AStarSearch.cpp
+E:\Portfolio\8 Puzzle\EightPuzzle\EightPuzzle\AStarSearch.cpp(97,19): warning C4018: '<': signed/unsigned mismatch
+  EightPuzzle.cpp
+E:\Portfolio\8 Puzzle\EightPuzzle\EightPuzzle\EightPuzzle.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Node.cpp
+  PuzzleConfiguration.cpp
+  Generating Code...
+E:\Portfolio\8 Puzzle\EightPuzzle\EightPuzzle\Node.cpp(40): warning C4715: 'Node::getEmptyTileIndex': not all control paths return a value
+  EightPuzzle.vcxproj -> E:\Portfolio\8 Puzzle\EightPuzzle\Debug\EightPuzzle.exe
