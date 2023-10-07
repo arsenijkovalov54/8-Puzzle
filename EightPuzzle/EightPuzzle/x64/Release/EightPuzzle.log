@@ -1,0 +1,8 @@
+﻿  EightPuzzle.cpp
+D:\univerKursach\EightPuzzle\EightPuzzle\EightPuzzle.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  1 of 461 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  EightPuzzle.vcxproj -> D:\univerKursach\EightPuzzle\x64\Release\EightPuzzle.exe

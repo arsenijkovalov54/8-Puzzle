@@ -5,6 +5,7 @@
 #include <random>
 #include <ctime>
 #include <cstdlib>
+#include <sstream>
 
 using namespace std;
 

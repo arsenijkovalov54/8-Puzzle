@@ -8,7 +8,7 @@ private:
     vector<int> initialState, goalState;
     bool cornerEmptyTile;
 public:
-    PuzzleConfiguration(bool cornerEmptyTile);
+    PuzzleConfiguration();
     const vector<int>& getInitialState() const;
     const vector<int>& getGoalState() const;
     void initializeGoalState();
